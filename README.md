@@ -186,5 +186,9 @@
 + MD: https://github.com/progorker/mytestorproxy-api/blob/main/procedure/api_testor_has_right.md
 + HTML: https://progorker.github.io/mytestorproxy-api/procedure/api_testor_has_right.html
 
+38. api_testor_man
++ MD: https://github.com/progorker/mytestorproxy-api/blob/main/procedure/api_testor_man.md
++ HTML: https://progorker.github.io/mytestorproxy-api/procedure/api_testor_man.html
+
 
 ```
