@@ -29,6 +29,8 @@ procedure mytestorproxy.api_testor_pattern (
 
 + 'mytestor'
 + 'mytestorproxy'
++ 'phptestor'
++ 'pytestor'
 
 
     ----------------------------
